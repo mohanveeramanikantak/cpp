@@ -59,7 +59,7 @@ I welcome suggestions, feedback, and collaboration! Feel free to fork the reposi
 
 ## 📞 Connect with Me
 - **LinkedIn**: [Mohan Veera Manikanta Kalepu](https://www.linkedin.com/in/mohanveeramanikantakalepu)
-- **GitHub**: [My GitHub Profile](https://github.com/username) *([Replace 'username' with your actual GitHub username](https://github.com/mohanveeramanikantak))*
+- **GitHub**: [My GitHub Profile](https://github.com/username) *(https://github.com/mohanveeramanikantak))*
 - **Portfolio**: [My Portfolio](#) *(https://mohanveeramanikantak.github.io/Portfolio.io/)*
 
 ---
