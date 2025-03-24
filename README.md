@@ -4,7 +4,7 @@ Welcome to my C++ Learning Repository! This repository serves as a documentation
 
 ## 🏁 Getting Started
 
-This repository contains:
+This repository contains:  
 - **Simple Programs**: Basic syntax and fundamental concepts.
 - **String Manipulation**: Exploring C++ string operations.
 - **Pointers and Memory Management**: Concepts like dynamic memory allocation and deallocation.
